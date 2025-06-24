@@ -1,0 +1,10 @@
+📁 IKBooksOnline/
+├── 📄 index.html          (HTML principal)
+├── 📁 css/
+│    └── 📄 styles.css     (Estilos personalizados)
+├── 📁 js/
+│    └── 📄 main.js        (Funciones del carrito y más)
+└── 📁 img/
+     ├── 📄 logo.png       (Tu logo)
+     ├── 📄 book1.jpg      (Libro demo 1)
+     └── 📄 whatsapp.png   (Icono de WhatsApp)
