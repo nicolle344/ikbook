@@ -1,0 +1,26 @@
+/* Estilos generales */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    background: #f9f5ff; /* Color pastel como en Canva */
+}
+
+.logo {
+    width: 150px;
+    display: block;
+    margin: 0 auto;
+}
+
+.whatsapp-float {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 60px;
+    z-index: 100;
+}
+
+/* Efecto hover para tarjetas */
+.book-slider img:hover {
+    transform: scale(1.05);
+    transition: 0.3s;
+}
